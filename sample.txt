@@ -3,4 +3,4 @@ add one line
 add one line in tutorial 2
 abc in tutorial2
 kjljljklkkk
-add a conflict in tutorial
+add hello worl
